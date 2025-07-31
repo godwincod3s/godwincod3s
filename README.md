@@ -63,15 +63,15 @@ Feel free to reach out if you're building something ambitious or want a reliable
 
 ---
 
-> 💬 Want to collaborate? [Open an issue](https://github.com/godwinjs/godwinjs/issues) or [DM me](https://twitter.com/GodwinCod3s)
+> 💬 Want to collaborate? [Open an issue](https://github.com/godwinjs/godwincod3s/issues) or [DM me](https://twitter.com/GodwinCod3s)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godwinjs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godwinjs&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=godwincod3s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godwincod3s&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -86,11 +86,11 @@ Feel free to reach out if you're building something ambitious or want a reliable
 
 ### 📌 Featured Repos
 
-<a href="https://github.com/godwinjs/walletwallie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=walletwallie&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/godwincod3s/walletwallie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwincood3s&repo=walletwallie&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/godwinjs/chatgemini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwinjs&repo=chatgemini&theme=gruvbox&hide_border=true" />
+<a href="https://github.com/godwincod3s/chatgemini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godwincod3s&repo=chatgemini&theme=gruvbox&hide_border=true" />
 </a>
 
 ---
@@ -98,7 +98,7 @@ Feel free to reach out if you're building something ambitious or want a reliable
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=godwinjs&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=godwincod3s&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ### 🚧 Currently Building
